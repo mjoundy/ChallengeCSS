@@ -1,0 +1,20 @@
+
+
+J'ai ajouté une étape (Étape 2) pour initialiser un tableau textWithChar qui stocke chaque caractère de la chaîne. 
+
+Cela permet de parcourir chaque caractère individuellement.
+
+J'ai ajusté la condition dans la boucle pour vérifier si le caractère est une voyelle. 
+
+J'ai utilisé .toLowerCase() pour rendre la comparaison insensible à la casse.
+
+J'ai utilisé la méthode includes pour simplifier la vérification si le caractère est une voyelle.
+
+Étape 1: Diviser la chaîne en mots
+Étape 2: Initialiser un tableau pour stocker les caractères de la chaîne
+Étape 3: Parcourir chaque caractère de la chaîne
+Étape 4: Vérifier si le caractère est une voyelle
+Étape 5: Incrémenter le compteur de voyelles
+Étape 6: Assigner la longueur du tableau de mots au compteur de mots
+Étape 7: Afficher les résultats
+
